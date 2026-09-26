@@ -1,4 +1,4 @@
-# Plex Android compatibility patcher
+# Plex Server Android
 
 Build a separate, locally signed Plex Media Server app that avoids an OpenSSL
 library-name collision on some non-SHIELD Android devices.
