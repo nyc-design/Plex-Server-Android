@@ -1,0 +1,2 @@
+cryptography==50.0.1
+pyelftools==0.32

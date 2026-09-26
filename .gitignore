@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+inputs/
+keys/
+*.apk
+*.apkm
+*.apks
+*.pem
+*.der
+*.log
+*.zip
+.DS_Store
